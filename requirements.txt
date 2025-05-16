@@ -1,0 +1,6 @@
+streamlit==1.16.0
+streamlit_option_menu==0.3.2
+pickles==0.1.1
+sklearn==0.0
+pickle-mixin==1.0.2
+numpy==1.21.5
